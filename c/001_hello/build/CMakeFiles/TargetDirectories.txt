@@ -1,0 +1,3 @@
+/workspaces/CMake_Learning/c/001_hello/build/CMakeFiles/hello.dir
+/workspaces/CMake_Learning/c/001_hello/build/CMakeFiles/edit_cache.dir
+/workspaces/CMake_Learning/c/001_hello/build/CMakeFiles/rebuild_cache.dir
